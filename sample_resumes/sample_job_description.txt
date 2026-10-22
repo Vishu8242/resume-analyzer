@@ -1,0 +1,27 @@
+Role: Senior Full Stack Python & AI Engineer
+Company: CloudScale Innovations
+Location: Remote
+
+About the Role:
+We are looking for an experienced Senior Full Stack Engineer to lead the design and development of our AI-driven SaaS platform. You will collaborate with product designers, data scientists, and DevOps teams to deliver resilient, high-performance web applications.
+
+Requirements & Must Haves:
+- 4+ years of professional software engineering experience.
+- Bachelor's or Master's degree in Computer Science, Engineering, or related technical field.
+- Strong proficiency in Python, JavaScript, and TypeScript.
+- Deep expertise in React, Next.js, and Tailwind CSS on the frontend.
+- Solid experience building backend services with FastAPI, Django, or Node.js.
+- Practical experience with PostgreSQL, MongoDB, and Redis caching.
+- Experience with Docker, Kubernetes, and CI/CD automation pipelines.
+- Demonstrated ability with Git and Agile Scrum methodologies.
+
+Preferred Qualifications & Nice to Have:
+- Hands-on experience with Machine Learning, NLP, or Generative AI (LLMs, LangChain).
+- Working knowledge of AWS (EC2, S3, Lambda) or Google Cloud Platform.
+- Experience with scikit-learn or PyTorch.
+- Familiarity with Microservices architecture and GraphQL APIs.
+
+Responsibilities:
+- Architect, build, and maintain scalable APIs and responsive user interfaces.
+- Optimize database queries and background job queues for high throughput.
+- Mentor junior engineers and conduct rigorous code reviews.

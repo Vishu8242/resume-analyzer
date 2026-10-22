@@ -1,0 +1,60 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment secrets
+.env
+
+# SQLite databases (preserve directory structure via .gitkeep)
+*.db
+*.sqlite3
+data/*.db
+data/*.sqlite3
+!data/.gitkeep
+
+# Generated PDF analysis reports (preserve directory structure)
+reports/*.pdf
+!reports/.gitkeep
+
+# Pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Streamlit local state
+.streamlit/secrets.toml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
